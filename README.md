@@ -38,7 +38,7 @@
 <!-- GETTING STARTED -->
 ## 🚀 Pour commencer
 
-Cette formation, réalisée par Sayah [@sqqyqqh](https://github.com/sqqyqqh) El Yatim sous licence [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr), aborde les fondamentaux de la _blockchain_.
+Cette formation, réalisée par Sayah [@technomystique](https://github.com/technomystique) El Yatim sous licence [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr), aborde les fondamentaux de la _blockchain_.
 
 ### Prérequis
 
