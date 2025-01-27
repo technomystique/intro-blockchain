@@ -96,7 +96,7 @@ Distribué sous licence [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/b
 <!-- CONTACT -->
 ## ✉️ Contact
 
-Email - [sqyqh@proton.me](mailto:sqyqh@proton.me) / Twitter - [@sqqyqqh](https://twitter.com/sqqyqqh) / GitHub - [@sqqyqqh](https://github.com/github_username/repo_name)
+Email - [sqyqh@proton.me](mailto:sqyqh@proton.me) / Twitter - [@technomystique](https://twitter.com/technomystique) / GitHub - [@technomystique](https://github.com/technomystique)
 
 <p align="right">(<a href="#readme-top">haut de page</a>)</p>
 
